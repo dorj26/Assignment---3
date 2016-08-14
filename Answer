@@ -1,0 +1,4 @@
+Two examples of data that cannot be stored in a variable of type int are
+
+a - (Which is of type char)
+26.78 - (which is of type double.)
